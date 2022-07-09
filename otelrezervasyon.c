@@ -79,7 +79,7 @@ int ilkgiris;
                             printf("Kac gun kalacaksiniz ?\n");
                             scanf("%d",&gun);
                             printf("\n*****************************************************\n");
-                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gözden gecirme
+                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gÃ¶zden gecirme
                             printf("\nISIM= %s\n",isim);
                             printf("\nSOYISIM= %s\n",soy_isim);
                             printf("\nE-MAIL= %s\n",e_mail);
@@ -99,7 +99,7 @@ int ilkgiris;
                             printf("Kac gun kalacaksiniz ?\n");
                             scanf("%d",&gun);
                             printf("\n*****************************************************\n");
-                            printf("\nKAYIT BILGILERI:\n");//Kayitlari son kez gözden gecirme
+                            printf("\nKAYIT BILGILERI:\n");//Kayitlari son kez gÃ¶zden gecirme
                             printf("\nISIM= %s\n",isim);
                             printf("\nSOYISIM= %s\n",soy_isim);
                             printf("\nE-MAIL= %s\n",e_mail);
@@ -121,7 +121,7 @@ int ilkgiris;
                             printf("Kac gun kalacaksiniz ?\n");
                             scanf("%d",&gun);
                             printf("\n*****************************************************\n");
-                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gözden gecirme
+                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gÃ¶zden gecirme
                             printf("\nISIM= %s\n",isim);
                             printf("\nSOYISIM= %s\n",soy_isim);
                             printf("\nE-MAIL= %s\n",e_mail);
@@ -199,7 +199,7 @@ int ilkgiris;
                             printf("Kac gun kalacaksiniz ?\n");
                             scanf("%d",&gun);
                             printf("\n*****************************************************\n");
-                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gözden gecirme
+                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gÃ¶zden gecirme
                             printf("\nISIM= %s\n",isim);
                             printf("\nSOYISIM= %s\n",soy_isim);
                             printf("\nE-MAIL= %s\n",e_mail);
@@ -219,7 +219,7 @@ int ilkgiris;
                             printf("Kac gun kalacaksiniz ?\n");
                             scanf("%d",&gun);
                             printf("\n*****************************************************\n");
-                            printf("\nKAYIT BILGILERI:\n");//Kayitlari son kez gözden gecirme
+                            printf("\nKAYIT BILGILERI:\n");//Kayitlari son kez gÃ¶zden gecirme
                             printf("\nISIM= %s\n",isim);
                             printf("\nSOYISIM= %s\n",soy_isim);
                             printf("\nE-MAIL= %s\n",e_mail);
@@ -241,7 +241,7 @@ int ilkgiris;
                             printf("Kac gun kalacaksiniz ?\n");
                             scanf("%d",&gun);
                             printf("\n*****************************************************\n");
-                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gözden gecirme
+                            printf("\nKAYIT BILGILERI\n");//Kayitlari son kez gÃ¶zden gecirme
                             printf("\nISIM= %s\n",isim);
                             printf("\nSOYISIM= %s\n",soy_isim);
                             printf("\nE-MAIL= %s\n",e_mail);
